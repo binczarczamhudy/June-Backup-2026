@@ -1,0 +1,77 @@
+﻿IP Address,VM Name,BIA,Technical Reason
+172.17.10.35,GRPFIN FILE SERVER,Non-Critical,All backups were successful for reporting month
+172.17.10.88,ERMDB,Functional Important,All backups were successful for reporting month
+172.17.10.89,ERMWeb,Functional Important,All backups were successful for reporting month
+172.17.100.115,MYHQKUL991401S,Mission Critical,All backups were successful for reporting month
+172.17.100.176,GSCRAPID4WEB,Business Critical,All backups were successful for reporting month
+172.17.100.37,eprocument-new,Functional Important,All backups were successful for reporting month
+172.17.100.57,EnterprisePortalQAS,Non-Critical,All backups were successful for reporting month
+172.17.100.78,PorSSCEPWEB,Mission Critical,All backups were successful for reporting month
+172.17.100.87,GHO WebServer,Business Critical,All backups were successful for reporting month
+172.17.11.111,SAPRouterBox2,Mission Critical,All backups were successful for reporting month
+172.17.11.152,GSCRAPID4APP,Business Critical,All backups were successful for reporting month
+172.17.11.153,GSCRAPID4DB,Business Critical,All backups were successful for reporting month
+172.17.11.154,GSCRAPID4DEV,Non-Critical,All backups were successful for reporting month
+172.17.11.187,GSCCAServer,Functional Important,All backups were successful for reporting month
+172.17.11.201,GSCDSSSCCMPSS,Functional Important,All backups were successful for reporting month
+172.17.11.202,GSCDSSSCCMDBS,Functional Important,All backups were successful for reporting month
+172.17.11.234,ViewpointProd,Functional Important,All backups were successful for reporting month
+172.17.152.10,Delinea (Thycotic) PAM Solution,Business Critical,All backups were successful for reporting month
+172.17.152.20,MYHQKUL990036S,Business Critical,All backups were successful for reporting month
+172.17.152.54,Tenable Scanner,Functional Important,All backups were successful for reporting month
+172.17.152.78,MYMTKUL990581S,Non-Critical,All backups were successful for reporting month
+172.17.152.79,MYMTKUL990582S,Functional Important,All backups were successful for reporting month
+172.17.152.81,MYHQKUL990040S-ERMWEB,Business Critical,All backups were successful for reporting month
+172.17.152.90,WEB HOSTING SERVER,Business Critical,All backups were successful for reporting month
+172.17.152.93,SDGHO_Syslog_Logger,Mission Critical,All backups were successful for reporting month
+172.17.218.10,MYHQKUL991181SN,Mission Critical,All backups were successful for reporting month
+172.17.218.11,MYHQKUL991182SN,Mission Critical,All backups were successful for reporting month
+172.17.218.12,MYHQKUL991183SN,Mission Critical,All backups were successful for reporting month
+172.17.218.13,MYHQKUL991184SN,Mission Critical,All backups were successful for reporting month
+172.17.218.4,MYHQKUL990005S,Mission Critical,All backups were successful for reporting month
+172.17.218.5,AZURESDB01,Non-Critical,All backups were successful for reporting month
+172.17.218.70,ADSBCONNECT,Mission Critical,All backups were successful for reporting month
+172.17.3.153,PorSSCEPPERSIS,Mission Critical,All backups were successful for reporting month
+172.17.3.154,PorSSCEPUNIFIC,Mission Critical,All backups were successful for reporting month
+172.17.3.222,AD_MYHQKUL990032S,Mission Critical,All backups were successful for reporting month
+172.17.3.228,AD_DCSdbGrp2_New,Mission Critical,All backups were successful for reporting month
+172.17.3.235,AD_MYHQKUL990044S,0,All backups were successful for reporting month
+172.17.3.40,HRFS,Functional Important,All backups were successful for reporting month
+172.17.3.45,AD_Quest,Business Critical,All backups were successful for reporting month
+172.17.3.65,PorSSCEPTREX,Mission Critical,All backups were successful for reporting month
+172.17.3.66,Portal SSCEPAPP,Mission Critical,All backups were successful for reporting month
+172.17.3.67,Portal SSCEPDB,Mission Critical,All backups were successful for reporting month
+172.17.3.69,PorEPQASNw,Non-Critical,All backups were successful for reporting month
+172.17.3.70,PorSSCEPPDV,Non-Critical,All backups were successful for reporting month
+172.17.82.100,UBNT GHO,Functional Important,All backups were successful for reporting month
+172.17.82.110,OpentextDoc PRD,Mission Critical,All backups were successful for reporting month
+172.17.82.111,OpentextDoc DB PRD,Mission Critical,All backups were successful for reporting month
+172.17.82.112,OpentextData PRD,Business Critical,All backups were successful for reporting month
+172.17.82.113,GHO DMS PRD,Business Critical,All backups were successful for reporting month
+172.17.82.114,OpentextDoc QAS,Non-Critical,All backups were successful for reporting month
+172.17.82.115,OpentextDoc DB QAS,Non-Critical,All backups were successful for reporting month
+172.17.82.116,OpentextData QAS,Non-Critical,All backups were successful for reporting month
+172.17.82.117,GHO DMS QAS,Non-Critical,All backups were successful for reporting month
+172.17.82.125,GHO Intune,Business Critical,All backups were successful for reporting month
+172.17.82.16,WEB HOSTING SERVER DB,Business Critical,All backups were successful for reporting month
+172.17.82.17,ODASERVER,Functional Important,All backups were successful for reporting month
+172.17.82.23,AD_NPS Service,Mission Critical,All backups were successful for reporting month
+172.17.82.36,GHOFA-FileServer,Functional Important,All backups were successful for reporting month
+172.17.82.52,MYHQKUL990039S-ERMDB,Business Critical,All backups were successful for reporting month
+172.17.82.54,GHOCertServer,Business Critical,All backups were successful for reporting month
+172.17.82.57,GHORootCA,Mission Critical,All backups were successful for reporting month
+172.19.22.11,Delinea (Thycotic) PAM Solution DR,Business Critical,All backups were successful for reporting month
+172.19.22.12,MYHQKUL990037S,Business Critical,All backups were successful for reporting month
+172.17.152.48,MYHQKUL990041S MANAGE ENGINE,Business Critical,All backups were successful for reporting month
+172.17.3.234,AD_MYHQKUL990045S,0,All backups were successful for reporting month
+172.17.152.49,ManageEngineSD-Plus,Business Critical,All backups were successful for reporting month
+172.17.82.104,GHOFileserver,Business Critical,All backups were successful for reporting month
+172.17.82.145,SDRAC-DB-UAT,Functional Important,All backups were successful for reporting month
+ 172.17.82.65 ,SAPJumpServer (POC),Non-Critical,All backups were successful for reporting month
+172.17.82.68,Qualitas Portal,Business Critical,All backups were successful for reporting month
+172.17.82.136,AD_MYHQKUL991190S,Mission Critical,All backups were successful for reporting month
+172.17.82.137,AD_MYHQKUL991191S,Mission Critical,All backups were successful for reporting month
+172.17.152.58,AD_MYHQKUL991192S,Mission Critical,All backups were successful for reporting month
+172.17.152.59,AD_MYHQKUL991193S,Mission Critical,All backups were successful for reporting month
+172.17.82.160 ,MYHQKUL991177S,Non-Critical,All backups were successful for reporting month
+,,,Total Failed Backup
