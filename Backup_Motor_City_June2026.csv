@@ -1,0 +1,67 @@
+VM Name,Backup Status
+GRPFIN FILE SERVER,Success
+ERMDB,Success
+ERMWeb,Success
+MYHQKUL991401S,Success
+GSCRAPID4WEB,Success
+eprocument-new,Success
+EnterprisePortalQAS,Success
+PorSSCEPWEB,Success
+GHO WebServer,Success
+SAPRouterBox2,Success
+GSCRAPID4APP,Success
+GSCRAPID4DB,Success
+GSCRAPID4DEV,Success
+GSCCAServer,Success
+GSCDSSSCCMPSS,Success
+GSCDSSSCCMDBS,Success
+ViewpointProd,Success
+Delinea (Thycotic) PAM Solution,Success
+MYHQKUL990036S,Success
+Tenable Scanner,Success
+MYMTKUL990581S,Success
+MYMTKUL990582S,Success
+MYHQKUL990040S-ERMWEB,Success
+WEB HOSTING SERVER,Success
+SDGHO_Syslog_Logger,Success
+PorSSCEPPERSIS,Success
+PorSSCEPUNIFIC,Success
+AD_MYHQKUL990032S,Success
+AD_DCSdbGrp2_New,Success
+AD_MYHQKUL990044S,Success
+HRFS,Success
+AD_Quest,Success
+PorSSCEPTREX,Success
+Portal SSCEPAPP,Success
+Portal SSCEPDB,Success
+PorEPQASNw,Success
+PorSSCEPPDV,Success
+UBNT GHO,Success
+OpentextDoc PRD,Success
+OpentextDoc DB PRD,Success
+OpentextData PRD,Success
+GHO DMS PRD,Success
+OpentextDoc QAS,Success
+OpentextDoc DB QAS,Success
+OpentextData QAS,Success
+GHO DMS QAS,Success
+GHO Intune,Success
+WEB HOSTING SERVER DB,Success
+ODASERVER,Success
+AD_NPS Service,Success
+GHOFA-FileServer,Success
+MYHQKUL990039S-ERMDB,Success
+GHOCertServer,Success
+GHORootCA,Success
+MYHQKUL990041S MANAGE ENGINE,Success
+AD_MYHQKUL990045S,Success
+ManageEngineSD-Plus,Success
+GHOFileserver,Success
+SDRAC-DB-UAT,Success
+SAPJumpServer (POC),Success
+Qualitas Portal,Success
+AD_MYHQKUL991190S,Success
+AD_MYHQKUL991191S,Success
+AD_MYHQKUL991192S,Success
+AD_MYHQKUL991193S,Success
+MYHQKUL991177S,Success
