@@ -1,0 +1,266 @@
+VM Name,Backup Status
+Warehouse SAP HANA,Success
+BMWDELLESX03,Success
+AD_MYHQKUL990006S,Success
+MYMTKUL990026S,Success
+Motor AP Monitoring New,Success
+GDMS WebServer2,Success
+TweedMtr2,Success
+KPRINT ABKL,Success
+NA,Success
+ABKLVeeam,Success
+KPrint ABBalakong,Success
+CarPro-V2 QAS,Success
+CarPro-V2 API PROD,Success
+CarPro-V2 Web PROD,Success
+Taiwan FTP,Success
+Kube PRD Web Server,Success
+Kube UAT Web Server,Success
+SAPGHODPQWD-WebDispatcher QAS,Success
+SAPGHODPPWD-DealerPortal WebDisp Prod,Success
+Mobile App Prod,Success
+Mobile App Dev,Success
+ABCustCare,Success
+DMS,Success
+JCB PRD Web,Success
+OneGo-Staging,Success
+ABCustCareNew,Success
+DMS-SG,Success
+SDM-Syslog-Logger1,Success
+SDRAC - API VM,Success
+SDRAC - WEB,Success
+vm-byd-prd-sa-01,Success
+GDMSPRD_MY,Success
+GDMSPRD_MY_Clone,Success
+GDMS EDMS Print Server,Success
+GDMSPRD_HKM,Success
+MTRGDMSPRD,Success
+GDMS Sonic PRD,Success
+NA,Success
+Qlikview Console,Success
+SDAPPRODSQL,Success
+SDRAC - DB,Success
+SDRAC - Source Control,Success
+Automation - Ansible,Success
+Automation - Gitlab,Success
+Zabbix - DB VM,Success
+Zabbix - Frontend,Success
+SAPMTRMTP-Motor ECC Prod,Success
+Amundsen-POC,Success
+SIEM-Wazuh,Success
+MYHIK0001,Success
+SAPMTRMTQ-Motor ECC QAS,Success
+SAPMTRMTD-Motor ECC DEV,Success
+Kube PRD SQL Server,Success
+Kube UAT SQL Server,Success
+FLOWISE (POC),Success
+GDMSPRD_SG,Success
+MYMTKUL990014S PMI ISPA INDONESIA,Success
+Zabbix-POC,Success
+Motor-AI,Success
+NA,Success
+Qlikview Dev Svr 2,Success
+Qlikview Dev Svr 4,Success
+Tenable_WAS Scanner,Success
+SDM-AD-POC,Success
+Care PRD DB,Success
+Autoline Malaysia,Success
+SMART SQL SSIS,Success
+Autoline Thailand,Success
+Qlikview Nprinting,Success
+AD POC Server,Success
+AD POC 1,Success
+AD POC 2,Success
+AD POC 3,Success
+Carpro-V2 BackOffice PROD,Success
+MYMTWMS0001,Success
+JCB PRD DB,Success
+JCB STG Web,Success
+Lemon 2,Success
+MotorAra AP Monitoring,Success
+JCB PRD App,Success
+SDAP DB,Success
+MYMTABIND008S,Success
+NEWQLIKSENSE,Success
+MYMTKUL990577S,Success
+MYMTKUL990578S,Success
+NA,Success
+MYMTKUL990580S,Success
+CarPro-V2 DB,Success
+CarPro-V2 App PROD,Success
+MotorVAScanner,Success
+BMC-Outpost,Success
+MYMTKUL990579S,Success
+SAPGHODPDDB-DealerPortal DEV DB,Success
+SAPGHODPQDB-DealerPortal QAS DB,Success
+SAPGHODPPDB-DealerPortal Prod DB,Success
+MYMTKUL990587S,Success
+ABSB Veeam,Success
+NA,Success
+KPRINT ABPENANG,Success
+NA,Success
+ABPenang Veeam,Success
+DLVCINO05,Success
+NA,Success
+NA,Success
+vCentre_new,Success
+NA,Success
+NA,Success
+Ino_Webserver,Success
+Inokom.com.my,Success
+LeanERP_PrintServer,Success
+Entrypass_Inokom,Success
+INOKOM_INO_MAINTENANCE_PMEPROD,Success
+SDAE Traceability,Success
+INO_Win2016FileServer,Success
+Mazda_vCat2019,Success
+INO_Chery_VTQS,Success
+AD_Inokom,Success
+SDAE_PowerTrain,Success
+INOKOM_UBNT,Success
+INO_MAZDA_VTQS,Success
+Parking_Yard,Success
+SDAE_dStar_Production,Success
+HIK_Console,Success
+INO_COMMON_VTQS,Success
+INO_MBA_VTQS,Success
+INO_MTQ_Server,Success
+INO_HRMS,Success
+BKP_Tightening,Success
+KPRINT ABJB,Success
+NA,Success
+ABJB Veeam,Success
+KPRINT ABTEBRAU,Success
+N/A,Success
+ABTebrau Veeam,Success
+FortiSIEM-VA-7.4.1.0452,Success
+Access Control,Success
+SCCM Dist Point,Success
+SCCM_Pilot,Success
+NA,Success
+BMW ISPA SPM PUCHONG,Success
+BMW ISPA SPM DAMANSARA,Success
+BMW KPRINT Server SPM,Success
+AutolineKprint2,Success
+SDAP APP NEW,Success
+AutolineKprint New,Success
+BMWISPA2,Success
+Autoline KPrint3,Success
+CMS TV,Success
+HikVision Control Centre,Success
+Vehicle Tracking,Success
+HKDC991039S,Success
+HKDC991029S,Success
+HKDC991026S,Success
+HKDC991047S,Success
+NA,Success
+HKHQTSW991001V-0.49 File Server,Success
+HKDC991010S,Success
+HKDC991037S,Success
+HKDC991045S,Success
+HKDC991041S,Success
+HKDC991008S,Success
+HKDC991036S,Success
+HKDC991024S,Success
+HKDC991040S,Success
+HKDC991038S,Success
+NA,Success
+Photon-machine1,Success
+NA,Success
+NA,Success
+HKCWBMWESXI01,Success
+HKCWBMWISPAHUB-24.32,Success
+NA,Success
+HKSTBMWISPAHUB,Success
+NA,Success
+ESXi,Success
+NA,Success
+HKMTWBMWISPAHUB,Success
+"HKMTMTW990006S
+(HKMTMTW991006S)",Success
+HKDC991002S,Success
+HKDC991048S,Success
+HKDC991027S,Success
+HKDC991031S,Success
+NA,Success
+NA,Success
+HKSDMSLTW99002V,Success
+HKSDMSLTW99003V,Success
+HKSDMSLTW99001E,Success
+HKSDMSLTW99001V,Success
+HKSDMATW991001E,Success
+HKSDMATW991001V,Success
+HKTWBMWESXI01,Success
+HKTWBMWISPAHUB,Success
+NA,Success
+MCBMWISPAHUB,Success
+MCMTBMW920001E,Success
+NA,Success
+MCMTBMW920003V,Success
+SDMVC01,Success
+ghovcsa1,Success
+PWCVSDM01,Success
+NA,Success
+NA,Success
+NA,Success
+NA,Success
+NA,Success
+Veeam DB,Success
+Veeam One,Success
+NA,Success
+NA,Success
+NA,Success
+NA,Success
+NA,Success
+NA,Success
+COLD&HOT,Success
+Acronis_Backup,Success
+NTP for SDAE,Success
+NA,Success
+Redhat-GoldenImage,Success
+Ubuntu-Golden,Success
+New-ECC-Shell,Success
+S4-HANA-Copy,Success
+GHO-SAPPRD-CLONE,Success
+BKP_TOOLS_INVENTORY,Success
+MYMTKUL990025S - ISPAHUB,Success
+SAP-Cloud-Connector,Success
+VLR-GHO-PRD,Success
+VLR-Linux-PRD,Success
+VLR-GHO-DR,Success
+VLR-Linux-Inokom,Success
+SAPJumpServer (POC),Success
+MYMTKUL990601S,Success
+SDRAC-DB-UAT,Success
+GHO-SAPPRD-Sandbox2,Success
+SDM-SAPMTP-Sandbox2,Success
+OneHub,Success
+#N/A,Success
+#N/A,Success
+#N/A,Success
+#N/A,Success
+#N/A,Success
+#N/A,Success
+#N/A,Success
+SDAP WEB,Success
+SDAPPRODWEB,Success
+AutolineMFT,Success
+OWS-DEV,Success
+OWS-PROD,Success
+NA,Success
+NA,Success
+NA,Success
+VOPS,Success
+MTP-CLONE,Success
+Autoline-PMI,Success
+SDAPPRODWEB,Success
+SDAP WEB,Success
+VMWare SRM 9.0.2,Success
+SMART SQL SSIS,Success
+MYMTWMS0001,Success
+Mazda_Fileserver,Success
+INO_PORSCHE_CLECO,Success
+PMS_2,Success
+IPM Malaysia PreInstall,Success
+Autoline-PMI,Success
+VOPSINOKOM,Success
